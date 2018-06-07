@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="album">Album Name</string>
+    <string name="artist">Artist Name</string>
+    <string name="button1">PLAYLIST</string>
+    <string name="button2">ARTIST</string>
+    <string name="button3">ALBUMS</string>
+    <string name="button4">SONGS</string>
+    <string name="playlist">PlayList Name</string>
+    <string name="song">Song Name</string>
+    <string name="buypage">This activity will handle the playing of song using MediaPlayer
+        API from user list, or searching new songs, add as favourite, or purchase that.
+        After added to basket, user can purchase the song through for using Google-Music-API.
+        In the toolbar menu will open the search activity,The Content for this will set later
+        on further stages.</string>
+</resources>
